@@ -10,6 +10,8 @@ Features Provided:
 	- Simple Linear Regression based price adjustment feature, it can help the vendor adjust its product prices to deal with general market competition.
 	- This price adjustment feature also employs an Apriori algorithm tie-in trick which allows us to determine which product prices can be increased or decreased without affecting the total sales. This also gives associations rules of products
 	- Customer Retention system for the vendor based on a ten-question form that needs to be answered to determine the customer-friendliness of the website. A rating is provided to the vendor based on these questions.
+	
+	
 ![image (1)](https://user-images.githubusercontent.com/78498965/235582879-6168fb82-6f8c-421a-9f2f-e9478d3f6831.png)
 Home Page
 ![future](https://user-images.githubusercontent.com/78498965/235582695-b699fdeb-c071-4c13-9c8b-8ca082d17646.jpg)
