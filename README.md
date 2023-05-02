@@ -13,10 +13,10 @@ Features Provided:
 ![image (1)](https://user-images.githubusercontent.com/78498965/235582879-6168fb82-6f8c-421a-9f2f-e9478d3f6831.png)
 Home Page
 ![future](https://user-images.githubusercontent.com/78498965/235582695-b699fdeb-c071-4c13-9c8b-8ca082d17646.jpg)
-
+Global Trends using Web Crawling
 ![as](https://user-images.githubusercontent.com/78498965/235582654-39f757cf-11a2-4550-92b4-c98ee51402b7.jpg)
-
+Vendor-to-Vendor Similarity based Recommendation
 ![image](https://user-images.githubusercontent.com/78498965/235582683-dc10c3e7-fe2d-4637-bb71-ef4bb5a82549.png)
-
+Association Rules based on vendor sales
 ![bs](https://user-images.githubusercontent.com/78498965/235582671-38f7349a-e852-485e-9dbd-8e459c89a707.jpg)
-
+Customer Retention System based on Website Rating
